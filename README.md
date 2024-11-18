@@ -5,12 +5,12 @@
 `Task Overview: This volunteer will work on preparing a comprehensive and high-quality dataset for analysis by collecting, cleaning, and organizing data from the World Bank, the SDG database, and UNCTAD. This dataset will connect directly to the UNMM BI platform, ensuring data is ready for seamless visualization and analysis.`
 
 ***Expected Output:***
-```
+
 > Output Name: InsightHub Unified Dataset
 Details: A fully cleaned and organized dataset, formatted as a .csv file, directly connected to the UNMM BI platform. The dataset will be accompanied by a “Data Cleaning Summary Report” (1-2 pages) that documents data sources, cleaning steps, and any data quality issues addressed.
 Workload: Approximately 5 hours per week over a 12-week period, with a final submission of the cleaned dataset and summary report by the end of the assignment.
 
-```
+
 
 2. **Data Visualization and Reporting Deliverable**
 
