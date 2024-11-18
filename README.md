@@ -1,7 +1,7 @@
 # Data-Support-Task-ONSAA
 
 1. **Data Collection and Cleaning Deliverable**
-Task Overview: This volunteer will work on preparing a comprehensive and high-quality dataset for analysis by collecting, cleaning, and organizing data from the World Bank, the SDG database, and UNCTAD. This dataset will connect directly to the UNMM BI platform, ensuring data is ready for seamless visualization and analysis.
+`Task Overview: This volunteer will work on preparing a comprehensive and high-quality dataset for analysis by collecting, cleaning, and organizing data from the World Bank, the SDG database, and UNCTAD. This dataset will connect directly to the UNMM BI platform, ensuring data is ready for seamless visualization and analysis.`
 
 ***Expected Output:***
 
@@ -10,7 +10,7 @@ Details: A fully cleaned and organized dataset, formatted as a .csv file, direct
 Workload: Approximately 5 hours per week over a 12-week period, with a final submission of the cleaned dataset and summary report by the end of the assignment.
 
 2. **Data Visualization and Reporting Deliverable**
-Task Overview: This volunteer will create an interactive report titled "UNMM Insight: Progress and Opportunities", designed to highlight key data insights relevant to UN OSAA’s strategic goals. Using Flourish or Adobe Suite, this three-page report will feature interactive visualizations and summaries to be published on the UNMM platform.
+`Task Overview: This volunteer will create an interactive report titled "UNMM Insight: Progress and Opportunities", designed to highlight key data insights relevant to UN OSAA’s strategic goals. Using Flourish or Adobe Suite, this three-page report will feature interactive visualizations and summaries to be published on the UNMM platform.`
 
 ***Expected Output:***
 
@@ -19,7 +19,7 @@ Details: A three-page interactive report in Flourish or Adobe Suite, featuring t
 Workload: Estimated at 5 hours per week over a 12-week period, with the final interactive report and user guide due by the end of the assignment.
 
 3. **Research and Machine Learning Analysis Deliverable**
-Task Overview: This volunteer will conduct a machine learning analysis on the dataset, focusing on identifying patterns, trends, and strategic insights. The result will be a structured report that highlights the analytical findings and suggests actionable applications for the InsightHub system.
+``Task Overview: This volunteer will conduct a machine learning analysis on the dataset, focusing on identifying patterns, trends, and strategic insights. The result will be a structured report that highlights the analytical findings and suggests actionable applications for the InsightHub system.``
 
 ***Expected Output:***
 
@@ -28,7 +28,7 @@ Details: A detailed, five-page report that documents machine learning methods, k
 Workload: Approximately 5 hours per week over a 12-week period, with the final report and summary of applications completed by the end of the assignment.
 
 4. **AI Application Feature Development Deliverable**
-Task Overview: This volunteer will develop a functional prototype feature using Python and large language models (LLMs) that can be integrated into InsightHub. This feature will be designed for automated data analysis or another targeted functionality, aimed at enhancing InsightHub’s operational efficiency.
+``Task Overview: This volunteer will develop a functional prototype feature using Python and large language models (LLMs) that can be integrated into InsightHub. This feature will be designed for automated data analysis or another targeted functionality, aimed at enhancing InsightHub’s operational efficiency.``
 
 ***Expected Output:***
 
