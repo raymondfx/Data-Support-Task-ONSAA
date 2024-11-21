@@ -1,10 +1,10 @@
 import pytest
 import numpy as np
-from ml_models.price_predictor import HousePricePredictor
-from ml_models.data_cleaner import HousingDataCleaner
+from ml_models.model_trainer import ModelTrainer
+from ml_models.data_cleaner import DataCleaner
 import pandas as pd
 
-class TestHousePricePredictor:
+class ModelTrainer:
     @pytest.fixture
     def sample_dataset(self):
         """
@@ -25,8 +25,8 @@ class TestHousePricePredictor:
         Test model training process
         """
         # Prepare data
-        cleaner = HousingDataCleaner()
-        predictor = HousePricePredictor()
+        cleaner = DataCleaner()
+        predictor = ModelTrainer()
         
         # Separate features and target
         X = sample_dataset.drop('price', axis=1)
@@ -46,8 +46,8 @@ class TestHousePricePredictor:
         Test model prediction functionality
         """
         # Prepare data
-        cleaner = HousingDataCleaner()
-        predictor = HousePricePredictor()
+        cleaner = DataCleaner()
+        predictor = ModelTrainer()
         
         # Separate features and target
         X = sample_dataset.drop('price', axis=1)
@@ -71,8 +71,8 @@ class TestHousePricePredictor:
         Test model performance metrics
         """
         # Prepare data
-        cleaner = HousingDataCleaner()
-        predictor = HousePricePredictor()
+        cleaner = DataCleaner()
+        predictor = ModelTrainer()
         
         # Separate features and target
         X = sample_dataset.drop('price', axis=1)
